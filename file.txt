@@ -1,2 +1,6 @@
 this is my first file
+<<<<<<< HEAD
 this is scond line  to update the data
+=======
+this  is updated data in our local 
+>>>>>>> 1d6e18ee4e463010aa6570f8f10d5e44d03d3b6f
